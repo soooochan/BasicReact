@@ -17,4 +17,4 @@ npm install --legacy-peer-deps diagram-library-react
 
 ### `강의 - 생활코딩`
 
-* 생활코딩 - React 공부 자료 
+* link : https://shorturl.at/cgwQ4
