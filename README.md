@@ -11,10 +11,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### library install 
+### `library install` 
 npm install --legacy-peer-deps diagram-library-react
 
 
-## 강의 - 생활코딩 
+### `강의 - 생활코딩`
 
 * 생활코딩 - React 공부 자료 
